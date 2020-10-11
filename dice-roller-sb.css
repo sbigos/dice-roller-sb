@@ -1,9 +1,9 @@
-* {
+* { /*Stlye for the whole page */
     font-family: Helvetica, Arial, sans-serif;
     text-align: center;
     background-color: lightskyblue;
   }
-  button {
+  button { /*Style for the button */
     background-color: rgb(245, 77, 35);
     border-radius: 6px;
     border: none;
@@ -13,7 +13,7 @@
     width: 200px;
     cursor: pointer;
   }
-  #placeholder {
+  #placeholder { /*Style for the field where the number prints */
     height: 100px;
     width: 100px;
     padding: 50px;
